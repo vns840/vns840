@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on (I am looking for an opportunity)
 
-- 👨‍💻 My portfolio [viniciusjose.ml](http://viniciusjose.ml/)
+- 👨‍💻 My portfolio [viniciusjose](https://vns840.github.io/ViniciusJose/)
 
 - 📫 How to reach me **viniciusjose.vale@gmail.com**
 
